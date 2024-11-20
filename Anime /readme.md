@@ -1,1 +1,0 @@
-- link for data : https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset
