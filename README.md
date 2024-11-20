@@ -34,7 +34,7 @@ EDA is an essential part of the data science workflow, helping us understand the
   - Genre-based analysis
   - Skewness and kurtosis of numerical columns
 
-### 2. **[Youtube_Analysis(EDA)](./anime-eda.ipynb)**
+### 2. **[Youtube_Analysis(EDA)](./anime-eda.ipynb)** 
 
 > **Note**: Each notebook includes detailed explanations of steps performed during the EDA process, visualizations, and findings.
 
